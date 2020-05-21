@@ -1,0 +1,11 @@
+structure st_rdev usage:
+https://stackoverflow.com/questions/31736476/majorstat-st-rdev-and-minorstat-st-rdev-on-non-device-files
+
+extended_attribute:
+ttps://stackoverflow.com/questions/36229265/how-to-get-extended-attributes-of-a-fileunix-c
+
+wiered testcases:
+
+./ft_ls -lt file author -r *
+
+ls -rt ../*
